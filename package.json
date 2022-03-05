@@ -1,0 +1,23 @@
+{
+  "name": "Automacao_Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriPaz/Automacao_Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriPaz/Automacao_Cypress/issues"
+  },
+  "homepage": "https://github.com/YuriPaz/Automacao_Cypress#readme",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
